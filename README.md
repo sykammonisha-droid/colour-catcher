@@ -52,5 +52,14 @@ cd color-catcher-game
 Run the game:
 
 ```bash
-python color_catcher.py
+python colourgreen.py
+```
+
+## 🙌 Acknowledgments
+
+Inspired by classic reflex games
+
+Built using Python & Pygame
+
+Special thanks to the open-source game dev community
 
